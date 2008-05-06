@@ -1,3 +1,7 @@
+-- NNW to FriendFeed
+-- Justin D. Henry
+-- http://greengaloshes.cc
+
 property theUser : ""
 property theSecretKey : ""
 property thePreferencesFileName : "com.greengaloshes.nnw-ff.txt"

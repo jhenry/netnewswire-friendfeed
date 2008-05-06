@@ -2,6 +2,7 @@ NNW to FriendFeed
 Justin D. Henry
 http://greengaloshes.cc
 
+
 This applescript allows you to post an article to FriendFeed from NetNewsWire.  This script based in large part on the "blog selection" script that comes with NetNewsWire, and bases the preference storage function by Andrew Faden and Larry Staton ( http://futuremacblog.blogspot.com/2008/03/improved-netnewswire-to-delicious.html ).  
 
 Still to come
@@ -10,3 +11,4 @@ TODO add key/username storage from http://futuremacblog.blogspot.com/2008/03/imp
 TODO figure out how to get the thumbnail from NNW - it uses it in the "tabs", but is it available to applescript?
 TODO add dialog, prefilled with theText, to allow adding a comment
 TODO make all this happen on clippings sync, so hitting the clippings button effectively adds the item to friendfeed as well.
+TODO get info from current window/tab, instead of just the river
